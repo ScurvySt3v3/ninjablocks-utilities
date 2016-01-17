@@ -1,3 +1,4 @@
 [submodule "wifi"]
 	path = wifi
-	url = https://github.com/ninjablocks/block-wifi.git
+	url = https://github.com/hlapp/block-wifi.git
+	branch = develop
