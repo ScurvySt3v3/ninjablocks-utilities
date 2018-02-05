@@ -1,9 +1,9 @@
 { "name": "utilities-beagle",
   "version": "0.8.1",
   "dependencies": {
-  	"serialport" : "0.7.5",
+  	"serialport" : "^6.0.0",
   	"optimist": "~0.3.4",
-        "express": "~3.0.0rc4",
-        "ejs": "~0.8.3"
+        "express": "^3.0.0",
+        "ejs": "^2.5.0"
   }
 }
